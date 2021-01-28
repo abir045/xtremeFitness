@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/xtremeFitness/precache-manifest.da53520d1029be0671b4c36f0226a227.js"
+  "/xtremeFitness/precache-manifest.01e233bf3a9ed576f1dc25ad8d3279c2.js"
 );
 
 self.addEventListener('message', (event) => {
