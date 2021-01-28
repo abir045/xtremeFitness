@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9475f0a31b0a21c9b0611bcbe774077d",
+    "revision": "90fcf41553f51e44edc416bd6a16cefb",
     "url": "/xtremeFitness/index.html"
   },
   {
-    "revision": "366daf69fa97bb497979",
+    "revision": "e204f20020e58837804f",
     "url": "/xtremeFitness/static/css/2.fed0eb58.chunk.css"
   },
   {
-    "revision": "366daf69fa97bb497979",
-    "url": "/xtremeFitness/static/js/2.f127c2c3.chunk.js"
+    "revision": "e204f20020e58837804f",
+    "url": "/xtremeFitness/static/js/2.269e4dc1.chunk.js"
   },
   {
-    "revision": "f8325e8be227ca30c5db",
-    "url": "/xtremeFitness/static/js/main.4d2e9718.chunk.js"
+    "revision": "9c95a185a86348ae1944",
+    "url": "/xtremeFitness/static/js/main.58557a97.chunk.js"
   },
   {
     "revision": "a7615e382a34dc3cfd39",
