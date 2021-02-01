@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c9873972a406c2e2c2918ceda13c874d",
+    "revision": "d6af29baae53b28f35feac151e9c8759",
     "url": "/xtremeFitness/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/xtremeFitness/static/js/2.269e4dc1.chunk.js"
   },
   {
-    "revision": "d3616bb1eb93399278fd",
-    "url": "/xtremeFitness/static/js/main.ff66af97.chunk.js"
+    "revision": "7505f7a2edd481a7c9c7",
+    "url": "/xtremeFitness/static/js/main.5cdf5984.chunk.js"
   },
   {
     "revision": "a7615e382a34dc3cfd39",
