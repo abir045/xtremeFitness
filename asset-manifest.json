@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/xtremeFitness/static/js/main.5cdf5984.chunk.js",
-    "main.js.map": "/xtremeFitness/static/js/main.5cdf5984.chunk.js.map",
+    "main.js": "/xtremeFitness/static/js/main.229e7ac5.chunk.js",
+    "main.js.map": "/xtremeFitness/static/js/main.229e7ac5.chunk.js.map",
     "runtime-main.js": "/xtremeFitness/static/js/runtime-main.14234120.js",
     "runtime-main.js.map": "/xtremeFitness/static/js/runtime-main.14234120.js.map",
     "static/css/2.fed0eb58.chunk.css": "/xtremeFitness/static/css/2.fed0eb58.chunk.css",
     "static/js/2.269e4dc1.chunk.js": "/xtremeFitness/static/js/2.269e4dc1.chunk.js",
     "static/js/2.269e4dc1.chunk.js.map": "/xtremeFitness/static/js/2.269e4dc1.chunk.js.map",
     "index.html": "/xtremeFitness/index.html",
-    "precache-manifest.8f3a2afddc8c7df6ff2d9b2b3c59117e.js": "/xtremeFitness/precache-manifest.8f3a2afddc8c7df6ff2d9b2b3c59117e.js",
+    "precache-manifest.47818903660931f97e89a1e95fcef81a.js": "/xtremeFitness/precache-manifest.47818903660931f97e89a1e95fcef81a.js",
     "service-worker.js": "/xtremeFitness/service-worker.js",
     "static/css/2.fed0eb58.chunk.css.map": "/xtremeFitness/static/css/2.fed0eb58.chunk.css.map",
     "static/media/bg1.jpg": "/xtremeFitness/static/media/bg1.e3094363.jpg",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.14234120.js",
     "static/css/2.fed0eb58.chunk.css",
     "static/js/2.269e4dc1.chunk.js",
-    "static/js/main.5cdf5984.chunk.js"
+    "static/js/main.229e7ac5.chunk.js"
   ]
 }
