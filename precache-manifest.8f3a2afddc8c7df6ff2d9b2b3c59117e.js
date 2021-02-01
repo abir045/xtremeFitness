@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d6af29baae53b28f35feac151e9c8759",
+    "revision": "b94b2d29706ec6635c60962eebf3e66b",
     "url": "/xtremeFitness/index.html"
   },
   {
